@@ -781,16 +781,15 @@ Mrbean.Position = UDim2.new(0.0, 0, 0.0, 0)
 Mrbean.BackgroundColor3 = Color3.new(1, 1, 1)
 Mrbean.BorderColor3 = Color3.new(0, 0, 0)
 Mrbean.BorderSizePixel = 0
-Mrbean.Text = "Mrbean Admin"
+Mrbean.Text = "Orion Ui"
 Mrbean.BackgroundTransparency = 0.5
 Mrbean.TextColor3 = Color3.new(0, 0, 0)
 Mrbean.Font = Enum.Font.Montserrat
 Mrbean.Parent = Scr
 Mrbean.TextSize = 19
 Mrbean.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Test4267/mrbean/refs/heads/main/hh"))()
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Yutreepode67/Public-fr/refs/heads/main/Super.txt"))()
 end)
-
 local Steve = Instance.new("TextButton")
 Steve.Size = UDim2.new(0.9, 39, 0.0, 29)
 Steve.Position = UDim2.new(0.0, 0, 0.0, 33)
@@ -813,14 +812,14 @@ Infinite.Position = UDim2.new(0.0, 0, 0.0, 65)
 Infinite.BackgroundColor3 = Color3.new(1, 1, 1)
 Infinite.BorderColor3 = Color3.new(0, 0, 0)
 Infinite.BorderSizePixel = 0
-Infinite.Text = "Infinite yield ( client side )"
+Infinite.Text = "Private Exec"
 Infinite.BackgroundTransparency = 0.5
 Infinite.TextColor3 = Color3.new(0, 0, 0)
 Infinite.Font = Enum.Font.Montserrat
 Infinite.Parent = Scr
 Infinite.TextSize = 19
 Infinite.MouseButton1Click:Connect(function()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Yutreepode67/Private-executer-don-t-ask-me-why-it-is-public-if-found-/refs/heads/main/Private"))()
 end)
 
 local She = Instance.new("TextButton")
